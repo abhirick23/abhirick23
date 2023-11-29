@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Abhiroop Sarkar
-- 👀 I’m interested in Machine Learning and Data Science
-- 🌱 I’m currently an UG student
+- 👀 I’m a student working in the domain of Machine Learning and Data Science.
+- 🌱 I’m currently an PG student
 - 💞️ I’m looking to collaborate on project
-- 📫 How to reach me asa370614@gmail.com
+- 📫 How to reach me abhiroop.sarkar2001@gmail.com
 -  If you love to play cricket and tune to good music then we are greatly compatible.
 
 
