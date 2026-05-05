@@ -1,68 +1,93 @@
-- 👋 Hi, I’m @Abhiroop Sarkar
-- 👀 I’m a student working in the domain of Machine Learning and Data Science.
-- 🌱 I’m currently an PG student
-- 💞️ I’m looking to collaborate on project
-- 📫 How to reach me abhiroop.sarkar2001@gmail.com
--  If you love to play cricket and tune to good music then we are greatly compatible.
+# Hi, I'm Abhiroop Sarkar 👋
 
+**AI/ML Engineer · NLP · RAG Systems · MLOps**  
+📍 Bengaluru, India &nbsp;|&nbsp; 📧 abhiroop.sarkar2001@gmail.com
 
+> Building production NLP pipelines, RAG systems, and LLM-powered APIs.  
+> MSc in Data Science & AI from IIT Madras. Previously at Airbus.  
+> I like clean abstractions, well-monitored systems, and cricket.
 
+---
 
-<!--
+## 🛠 Tech Stack
 
-## 🚀 Languages and Tools:
+**Languages & Frameworks**  
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
 
-<p align="left"> 
-    <a href="https://www.java.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/> </a>
-    <a href="https://reactjs.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/react-native.png"/> </a>
-    <a href="https://spring.io/projects/spring-boot" target="_blank"> <img src="https://img.icons8.com/color/48/000000/spring-logo.png"/> </a> 
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/> </a> 
-    <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a> 
-    <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png"/> </a> 
-    <a href="https://getbootstrap.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/bootstrap.png"/> </a> 
-    <a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python.png"/> </a> 
-    <a style="padding-right:8px;" href="https://nodejs.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/nodejs.png"/> </a> 
-    <a style="padding-right:8px;" href="https://www.mysql.com/" target="_blank"> <img src="https://img.icons8.com/fluent/50/000000/mysql-logo.png"/> </a>
-    <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="48" height="48"/> </a> 
-    <a href="https://firebase.google.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/firebase.png"/> </a> 
-    <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="45" height="45"/> </a>   
-    <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a> 
-    <a href="https://www.jenkins.io" target="_blank"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="48" height="48"/> </a> 
-    <a href="https://redux.js.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/redux.png"/> </a>
-    <a href="https://expressjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a>
-</p>
+**LLMs & NLP**  
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini_API-4285F4?style=flat-square&logo=google&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI_API-412991?style=flat-square&logo=openai&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
 
-<!-- [![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#)  [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) [![Typescript Badge](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)](#) [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#) [![GraphQL Badge](https://img.shields.io/badge/-GraphQl-e535ab?style=for-the-badge&labelColor=black&logo=node.js&logoColor=e535ab)](#) -->
-<br/>
+**Data & Cloud**  
+![AWS](https://img.shields.io/badge/AWS_S3-FF9900?style=flat-square&logo=amazons3&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+![BigQuery](https://img.shields.io/badge/BigQuery-4285F4?style=flat-square&logo=googlebigquery&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
-<p align="center">
-    <a href="https://github.com/abhirick23/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Abhiroop's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=abhirick23&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
-    </a>
-</p>  
-## 📊 My Github Stats
+---
 
-  <br/>
-    <a href="https://github.com/abhirick23/github-readme-stats"><img alt="Abhiroop's Github Stats" src="https://github-readme-stats.vercel.app/api?username=abhirick23&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <a href="https://github.com/abhirick23/github-readme-stats"><img alt="Abhiroop's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhirick23&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <br/>
-  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+## 💼 Experience
 
+### AI/ML Engineer — CERT Impact, Bengaluru *(2024 – Present)*
+- Built IRO (Impact, Risk & Opportunity) extraction service for CSRD sustainability compliance
+- Designed **async batch processing pipelines** with semaphore-controlled Gemini API concurrency to prevent file descriptor exhaustion
+- Implemented **all-or-nothing transaction patterns** with failure tracking via `discarded_iros` table
+- Engineered unified Pydantic data models with conditional validation logic across document types
+- Stack: `FastAPI` · `Gemini AI` · `AWS S3` · `PostgreSQL` · `Asyncio` · `Pydantic`
 
-<br/>
-<br/>
+### Data Science Intern — Airbus, India *(2023)*
+- Applied ML and predictive modeling to operational aerospace datasets
+- Stack: `Python` · `Scikit-learn` · `Pandas` · `Data Analysis`
 
-<a href="https://github.com/abhirick23/github-readme-activity-graph"><img alt="Abhiroop's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=abhirick23&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+---
 
-<br/>
-<br/>
+## 🚀 Projects
 
-## Connect with me:
-<p align="left">
+### IRO Extraction Microservice
+FastAPI service that extracts ESG-related Impacts, Risks, and Opportunities from corporate documents using Gemini AI. Features concurrency control, rate limiting via configurable `.ini` settings, and robust Pydantic validation.  
+`FastAPI` `Gemini` `PostgreSQL` `S3` `Asyncio`
 
-<a href = "https://www.linkedin.com/in/abhiroop-sarkar-a2bb2119b/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-<a href = "https://twitter.com/AbhiroopSarkar9"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
+---
 
-</p>
+### Sentiment NLP Pipeline
+End-to-end text sentiment pipeline using VADER with custom preprocessing and batch inference. Designed for extensibility to transformer-based models.  
+`Python` `VADER` `NLTK` `Pandas`
 
+---
 
+### RAG System Architecture (Pharmaceutical Chatbot)
+Designed a production-grade RAG system with hybrid search (BM25 + dense retrieval), HNSW-based vector indexing, chunking strategies, and hallucination mitigation patterns.  
+`LangChain` `FAISS` `OpenAI` `HNSW`
+
+---
+
+### XGBoost Multi-Task Ranker
+Multi-task learning pipeline using XGBoost for ranking with custom objective functions and cross-validation.  
+`XGBoost` `Scikit-learn` `Python`
+
+---
+
+## 🎓 Education
+
+**MSc, Data Science & Artificial Intelligence**  
+IIT Madras + University of Birmingham
+
+**BTech, Artificial Intelligence**  
+RTMNU Nagpur
+
+---
+
+## 📫 Connect with me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhiroop-sarkar-a2bb2119b/)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/AbhiroopSarkar9)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:abhiroop.sarkar2001@gmail.com)
+
+---
+
+*Cricket fan. Music listener. Always learning.*
